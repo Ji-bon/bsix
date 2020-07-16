@@ -1,6 +1,6 @@
-[![Github](https://img.shields.io/badge/Github-BOTOL--MEHEDI-green?style=flat-square&logo=github)](https://github.com/botolmehedi)
-[![IYoutube](https://img.shields.io/badge/YOUTUBE-%40mastertrick1-red?style=flat-square&logo=youtube)](https://www.youtube.com/mastertrick1)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=flat-square&logo=messenger)](https://www.facebook.com/groups/231747098048450)
+[![Github](https://img.shields.io/badge/Github-Ji-bon-green?style=flat-square&logo=github)](https://github.com/Ji-bon)
+
+
 
 <h1 align="center">BSIX v1.0</h1>
 <p align="center">
@@ -14,7 +14,7 @@ BSIX is a python based script. You can use this tool for crack facebook users pa
 ## All commands for install this tool
 $ pkg update && pkg upgrade && pkg install python && pkg install python2 && pkg install git && pkg install pip && pkg install pip2
 <br/>
-$ git clone https://github.com/botolmehedi/bsix
+$ git clone https://github.com/ji-bon/bsix
 <br/>
 $ pip2 install requests
 <br/>
@@ -40,27 +40,27 @@ $ python2 bsix.py
 ## 馃敆 ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/MasterTrick1
+Laksam chil
 
-### Chekout our webite:
-https://www.mastertrick.design
+
+
 
 ## 馃懃 ***Join***
 
 ### Facebook group: 
-https://www.facebook.com/groups/231747098048450
 
-### Telegram channel:
-https://t.me/mastertrick2
 
-### Facebook page:
-https://www.facebook.com/TeamVVirus
 
-### Instagram: 
-https://www.instagram.com/MehtanOfficial
+
+
+
+
+
+
+
 
 ### My GitHub ID link:
-https://www.github.com/BotolMehedi
+https://www.github.com/Ji-bon
 
 ### 馃摙 Warning
 
